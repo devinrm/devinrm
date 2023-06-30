@@ -1,5 +1,3 @@
-![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinrm&count_private=true&show_icons=true&theme=tokyonight)
-
 <!--
 
 - 🔭 I’m currently working on ...
